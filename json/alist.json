@@ -4,7 +4,7 @@
         "server" : "http://alist.xiaoya.pro",
         "startPage" : "/",
         "showAll" : false,
-        "search" : true
+        "search" : false
     },
       {
         "name": "肥猫",
