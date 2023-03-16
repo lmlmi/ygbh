@@ -52,7 +52,13 @@
             "ext": "https://api-tx.shumaxc.xyz",
             "jar": "http://我不是.肥猫.love:63/Jar/qq2.jar;md5;4E872E4AA2D4F8B6F4FFBC11E6B3E1A1"
         },
-
+{ 
+   "key": "直播转点播", 
+   "name": "🐼电视直播1", 
+   "type": 3, 
+   "api": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e7%9b%b4%e6%92%ad%e8%bd%ac%e7%82%b9%e6%92%ad.js", 
+   "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/%e7%9b%b4%e6%92%ad.js" 
+  },
          {
       "key": "T4直播转点播",
       "name": "📺︎电视直播2",
