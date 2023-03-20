@@ -8,7 +8,7 @@
 
 {
       "name": "live",
-      "url": "https://jihulab.com/ygbh1/box/-/raw/main/ZB/zlive.txt",
+      "url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/zlive.txt",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
