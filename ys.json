@@ -6,9 +6,11 @@
 "spider":"http://我不是.肥猫.love:63/Jar/panda230311a.jar;md5;492F9401FEC7D490F6F2E48F045E1580",
 "lives":[
 
+
+    
 {
       "name": "live",
-      "url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/zlive.txt",
+      "url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -17,9 +19,8 @@
     {"group":"redirect",
     "channels":[{
     "name":"redirect",
-    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9qaWh1bGFiLmNvbS95Z2JoMS9ib3gvLS9yYXcvbWFpbi9aQi96bGl2ZS50eHQ="]}]
+    "urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvdHZ6Yi50eHQ="]}]
     }],
-
 "sites":[
 {
             "key": "js豆瓣1",
